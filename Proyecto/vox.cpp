@@ -8,7 +8,6 @@
 
 #include "vox.h"
 
-// Constructor
 VoxOperator::VoxOperator(int id, double talkingCharge, double messageCost, double networkCharge, int discountRate, OperatorType type)
 : Operator(id, talkingCharge, messageCost, networkCharge, discountRate, type) {}
 
