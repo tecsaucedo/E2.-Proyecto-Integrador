@@ -1,8 +1,8 @@
 // =========================================================
 // File: vox.h
-// Author:
-// Date:
-// Description:
+// Author: César Ignacio Saucedo Rodríguez A0172245
+// Date: 12/06/2024
+// Description: Vox operator 
 // =========================================================
 
 #ifndef VOXOPERATOR_H

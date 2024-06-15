@@ -1,8 +1,8 @@
 // =========================================================
 // File: operator.h
-// Author:
-// Date:
-// Description:
+// Author: César Ignacio Saucedo Rodríguez A01712245
+// Date: 12/06/2024
+// Description: Call and internet operator
 // =========================================================
 
 #ifndef OPERATOR_H
@@ -27,7 +27,7 @@ public:
 
   int getId() const;
   int getDiscountRate() const;
-  double getTalkingChage() const;
+  double getTalkingCharge() const;
   double getMessageCost() const;
   double getNetworkCharge() const;
   int getTotalSpentTalkingTime() const;

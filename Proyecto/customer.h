@@ -1,8 +1,8 @@
 // =========================================================
 // File: customer.h
-// Author:
-// Date:
-// Description:
+// Author: César Ignacio Saucedo Rodríguez A01712245
+// Date: 14/06/2024
+// Description: Customer class
 // =========================================================
 #ifndef CUSTOMER_H
 #define CUSTOMER_H

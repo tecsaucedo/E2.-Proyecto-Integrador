@@ -1,8 +1,8 @@
 // =========================================================
 // File: bill.h
-// Author:
-// Date:
-// Description:
+// Author: César Ignacio Saucedo Rodríguez A01712245
+// Date: 12/06/2024
+// Description: Client facturation system 
 // =========================================================
 
 #ifndef BILL_H

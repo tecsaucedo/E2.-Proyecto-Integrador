@@ -1,8 +1,8 @@
 // =========================================================
-// File: vox.h
-// Author:
-// Date:
-// Description:
+// File: internet.h
+// Author: César Ignacio Saucedo Rodríguez A01712245
+// Date: 12/06/2024
+// Description: Internet Operator
 // =========================================================
 
 #ifndef InternetOperator_H
